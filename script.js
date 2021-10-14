@@ -2,7 +2,7 @@
  * @fileoverview Script to use regex for table
  * suggestions and search.
  *
- * @author ryanspoone@gmail.com (Ryan Spoone)
+ * @author secretguard.xyz
  *************************************************/
 
 
